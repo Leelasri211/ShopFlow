@@ -2,6 +2,8 @@
 
 A full-featured e-commerce Android app built with modern Android development stack.
 
+## 📱 Demo
+[YouTube Demo](https://youtube.com/shorts/avfYfzgxgKs?feature=share)
 
 ## 📸 Screenshots
 | Home                           | Product Detail | Cart |
@@ -38,6 +40,23 @@ A full-featured e-commerce Android app built with modern Android development sta
 | Image | Coil |
 | Navigation | Navigation Compose |
 
+## 🚀 Setup Instructions
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Leelasri211/ShopFlow.git
+```
+
+2. Add your `google-services.json` file inside the `app/` directory
+
+3. Add your Firebase Web Client ID in `LoginScreen.kt`
+
+4. Add your Razorpay Test Key in `RazorpayHelper.kt`
+
+5. Sync Gradle and run the project
+
+---
 
 ## 📁 Project Structure
 ```
